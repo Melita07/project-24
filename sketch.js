@@ -30,10 +30,10 @@ function setup() {
 
 
 function draw() {
-  rectMode(CENTER);
+  
   background(0);
   
-  drawSprites();
+
   
   hammer.display();
   ground.display();
